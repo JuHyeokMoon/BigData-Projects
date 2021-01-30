@@ -1,1 +1,1 @@
-# News-Sentiment-Analysis
+# 빅데이터 프로젝트
